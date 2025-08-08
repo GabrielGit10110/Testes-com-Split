@@ -15,6 +15,7 @@ Texto 3: acelga;alface;alho-poró;coentro;endívia;escarola;repolho;rúcula;agri
 ---
 
 **Demonstração de execução:**
+
 <img width="654" height="72" alt="image" src="https://github.com/user-attachments/assets/b64c55c3-242f-48a4-a41a-2f41b0d592d8" />
 
 <img width="687" height="74" alt="image" src="https://github.com/user-attachments/assets/5b4994b5-e2f6-4a7b-8d4c-a6e50653ff9d" />
